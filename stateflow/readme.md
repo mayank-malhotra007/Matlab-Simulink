@@ -5,6 +5,6 @@ Stateflow is a matlab-simulink toolbox designed to model and simulate state mach
 - build states, transitions between states, actions, events 
 - model complex logic, like mode switches, safety controllers, protocols, user interfaces
 - integrates with simulink
-- is visual 
+- is visual and intuitive 
 - generate code for embedded systems
 
